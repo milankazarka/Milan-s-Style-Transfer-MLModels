@@ -1,7 +1,7 @@
 # Milan-s-Style-Transfer-MLModels
 I trained a ton of style transfer .mlmodels and categorized them
 
-This was originally converted from a Google Docs Spreadsheet where I created this list. The numbering is off by 1. 
+This was originally converted from a Google Docs Spreadsheet where I created this list (what worked for me was to download as HTML and than use an online service to convert HTML to Markdown). The numbering is off by 1. I created the original image which I've transformed with these models using MidJourney. 
 
 2
 
